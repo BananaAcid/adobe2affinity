@@ -49,6 +49,10 @@ There seems to be no toggle to change auto selecting the layer by clicking on pi
 ### Related
 - But there is a dropdown top left below the menu, to select a specific object selection mode, but you need to activate the `Move Tool` and have no layer selected, to be able to change it <kbd>*2024-06-28, AP v2.5.3*</kbd>
 
+## Masking is ... different?
+### Solutions
+- Select your layer you want to add a mask to, click the mask-button below the layers. Do not expand the layer with its empty mask, and drag your masking layer right to the empty mask in that original layer. Click on the empty mask and press delete on your keyboard. <kbd>*2024-06-28, AP v2.5.3*</kbd>
+
 
 ---
 
