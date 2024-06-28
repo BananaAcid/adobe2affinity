@@ -65,6 +65,10 @@ There seems to be no toggle to change auto selecting the layer by clicking on pi
 ### Solutions
 - File > Export <kbd>*2024-06-28, AP v2.5.3*</kbd>
 
+## Are there more filters?
+### Solution
+- you may use https://github.com/0xC0000054/gmic-8bf for windows (plugin install help: https://github.com/0xC0000054/gmic-8bf/wiki/Installing-in-Affinity-Photo )
+
 ---
 
 If any explanation needs more then a sentance, it will link to a different markdown file in the same repo, where images can be included. In this main document, images may only be linked for now.
