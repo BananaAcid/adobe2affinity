@@ -75,6 +75,11 @@ There is no list of custom colors like within the color selection dialog in PS o
 ### No solution known 
 - <kbd>*2024-06-28, AP v2.5.3*</kbd>
 
+## Where is the Web Font selection?
+Only those installed on the system are available, not even google fonts or alike <kbd>*2024-06-28, AP v2.5.3*</kbd>
+### No solution known 
+- <kbd>*2024-06-28, AP v2.5.3*</kbd>
+
 
 ---
 
