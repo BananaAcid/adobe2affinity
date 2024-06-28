@@ -29,3 +29,20 @@
 
 ### Adobe Illustrator
 - InkScape ... Bad UX + bad UI
+
+
+## Acrobat
+... create and edit
+- ONLYOFFICE PDF Editor
+- InkScape
+- LibreOffice Draw
+// Sejda (web - online only)
+// PDF24 Creator (Win Only)
+
+## markup convert any format into another
+- PanDoc - Desktop - https://pandoc.org/
+
+
+## MS Office
+- OnlyOffice Desktop
+  * + Thunderbird
