@@ -40,6 +40,7 @@ Sometimes, there is no layer selected/active when opening an image / removing la
 ## How do I make the negative-selection-rectangle show up to know where I started selecting?
 It is invisible, but works. <kbd>*2024-06-28, AP v2.5.3*</kbd>
 ### No solution known
+- <kbd>*2024-06-28, AP v2.5.3*</kbd>
 
 ## Where are the layer filters?
 Double clicking on the layer's right side itself is not available <kbd>*2024-06-28, AP v2.5.3*</kbd>
@@ -68,6 +69,12 @@ There seems to be no toggle to change auto selecting the layer by clicking on pi
 ## Are there more filters?
 ### Solution
 - you may use https://github.com/0xC0000054/gmic-8bf for windows (plugin install help: https://github.com/0xC0000054/gmic-8bf/wiki/Installing-in-Affinity-Photo ) <kbd>*2024-06-28, AP v2.5.3*</kbd>
+
+## Is there a list of previously used colors?
+There is no list of custom colors like within the color selection dialog in PS or other tools <kbd>*2024-06-28, AP v2.5.3*</kbd>
+### No solution known 
+- <kbd>*2024-06-28, AP v2.5.3*</kbd>
+
 
 ---
 
