@@ -10,7 +10,7 @@ FAQs on licensing and more is at Affinities forum https://forum.affinity.serif.c
 ## Remove image background / select object, like with PS's AI
 Affinity Photo has no smart-background-remove tools. <kbd>*2024-06-28, AP v2.5.3*</kbd>
 ### Solutions
-- possible external solution: use https://www.remove.bg/ then save the image and use it as mask in Affinity Photo, [see](./detailed/Remove%20image%20background%20-%201.md) <kbd>*2024-06-28, AP v2.5.3*</kbd>
+- possible external solution: use https://www.remove.bg/ then save the image and use it as mask in Affinity Photo, [see How-To](./detailed/Remove%20image%20background%20-%201.md) <kbd>*2024-06-28, AP v2.5.3*</kbd>
 
 ## Paste an image from clipboard as new image
 ... Since the welcome screen with the new image options has no option to use clipboard size <kbd>*2024-06-28, AP v2.5.3*</kbd>
