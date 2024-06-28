@@ -1,8 +1,11 @@
 # Photoshop to Affinity Photo
-Documentation on different frequently asked questions when switching from Photoshop to Affinity Photo
+Documentation on using photo - listing frequently asked questions when switching from Photoshop to Affinity Photo
 
-A list of FAQs and how to solve them. Please feel free to open a discussion, post issues and provide pull requests.
+**A list of FAQs and how to solve them. Please feel free to open a discussion, post issues and provide pull requests.**
 
+FAQs on licensing and more is at Affinities forum https://forum.affinity.serif.com/
+
+---
 
 ## Remove image background / select object, like with PS's AI
 Affinity Photo has no smart-background-remove tools. <kbd>*2024-06-28, AP v2.5.3*</kbd>
