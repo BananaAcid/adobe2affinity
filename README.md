@@ -1,2 +1,55 @@
-# phtoshop2affinity
+# Photoshop to Affinity Photo
 Documentation on different frequently asked questions when switching from Photoshop to Affinity Photo
+
+A list of FAQs and how to solve them. Please feel free to open a discussion, post issues and provide pull requests.
+
+
+## Remove image background / select object, like with PS's AI
+Affinity Photo has no smart-background-remove tools. <kbd>*2024-06-28, AP v2.5.3*</kbd>
+### Solutions
+- possible external solution: use https://www.remove.bg/ then save the image and use it as mask in Affinity Photo <kbd>*2024-06-28, AP v2.5.3*</kbd>
+
+## Paste an image from clipboard as new image
+... Since the welcome screen with the new image options has no option to use clipboard size <kbd>*2024-06-28, AP v2.5.3*</kbd>
+### Solutions 
+- Do not use the welcome dialog, use the menu instead: File > New from Clipboard <kbd>*2024-06-28, AP v2.5.3*</kbd>
+
+## Something similar like smart-objects?
+Smart-Objects are Photoshop specific: https://helpx.adobe.com/photoshop/using/create-smart-objects.html
+### Solutions 
+- yes, but: you have to create a separate .afphoto file and either drag it in or use `File > Place`. <kbd>*2024-06-28, AP v2.5.3*</kbd>
+    - Double click will also navigate into it as in PS (layer filters work as well, but will be cut off, if they would render outside of the object frame)
+
+## No transform mode or tool?
+`CTRL + T` does no work, there seems to be no extra tool. <kbd>*2024-06-28, AP v2.5.3*</kbd>
+### Solutions 
+- Transform options are part of the object selection (Move Tool) <kbd>*2024-06-28, AP v2.5.3*</kbd>
+
+## How do I enable snapping for the crop tool?
+Using the crop tool to crop the image, the magnet does not affect it, it does not snap to the outermost used pixels. <kbd>*2024-06-28, AP v2.5.3*</kbd>
+### No Solution known
+
+## Why does the magic wand not select anything?
+Sometimes, there is no layer selected/active when opening an image / removing layers <kbd>*2024-06-28, AP v2.5.3*</kbd>
+### Solutions
+- You need to make sure, to select a layer first. (It seems, unlike the area selection tool) <kbd>*2024-06-28, AP v2.5.3*</kbd>
+
+## How do I make the negative-selection-rectangle show up to know where I started selecting?
+It is invisible, but works. <kbd>*2024-06-28, AP v2.5.3*</kbd>
+### No solution known
+
+## Where are the layer filters?
+Double clicking on the layer's right side itself is not available <kbd>*2024-06-28, AP v2.5.3*</kbd>
+### Solutions
+- The button is below the layers, (once the FX icon appeared for a layer, it can be clicked). The pattern-overlay is not available. <kbd>*2024-06-28, AP v2.5.3*</kbd>
+
+## Is there an option to disable: auto select layer
+There seems to be no toggle to change auto selecting the layer by clicking on pixels to only select within the current selected layer <kbd>*2024-06-28, AP v2.5.3*</kbd>
+### No solution known
+### Related
+- But there is a dropdown top left below the menu, to select a specific object selection mode, but you need to activate the `Move Tool` and have no layer selected, to be able to change it <kbd>*2024-06-28, AP v2.5.3*</kbd>
+
+
+---
+
+If any explanation needs more then a sentance, it will link to a different markdown file in the same repo, where images can be included. In this main document, images may only be linked for now.
