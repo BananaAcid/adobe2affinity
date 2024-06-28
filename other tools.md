@@ -4,6 +4,10 @@
 - Locally installable
 - free (no upselling for main features) or cheap one time fee
 
+## Adobe Photoshop, Illustrator, InDesign
+... Gimp is alternative for me
+- Affinity Photo, Designer, Publisher
+
 ## Adobe XD
 - PenPot (needs docker app, but Open Source)
 - Lunacy (Desktop App, free but Closed Source)
@@ -33,7 +37,7 @@
 
 ## Acrobat
 ... create and edit
-- ONLYOFFICE PDF Editor
+- OnlyOFFICE PDF Editor
 - InkScape
 - LibreOffice Draw
 // Sejda (web - online only)
@@ -44,5 +48,5 @@
 
 
 ## MS Office
-- OnlyOffice Desktop
+- OnlyOFFICE Desktop
   * + Thunderbird
