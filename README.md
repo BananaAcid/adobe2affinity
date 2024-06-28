@@ -56,6 +56,14 @@ There seems to be no toggle to change auto selecting the layer by clicking on pi
 ### Solutions
 - Select your layer you want to add a mask to, click the mask-button below the layers. Do not expand the layer with its empty mask, and drag your masking layer right to the empty mask in that original layer. Click on the empty mask and press delete on your keyboard. <kbd>*2024-06-28, AP v2.5.3*</kbd>
 
+## Export multiple image versions
+... is close to what Photoshop has <kbd>*2024-06-28, AP v2.5.3*</kbd>
+### Solutions
+- Select the `Export Persona` top left, right below the file menu. ON the right side, click on the `Slices` tab, right next to `Layers`. The initial/first slice is always the full image. The export options above, are always for the selected slice. <kbd>*2024-06-28, AP v2.5.3*</kbd>
+
+## Export the current image
+### Solutions
+- File > Export <kbd>*2024-06-28, AP v2.5.3*</kbd>
 
 ---
 
