@@ -67,7 +67,7 @@ There seems to be no toggle to change auto selecting the layer by clicking on pi
 
 ## Are there more filters?
 ### Solution
-- you may use https://github.com/0xC0000054/gmic-8bf for windows (plugin install help: https://github.com/0xC0000054/gmic-8bf/wiki/Installing-in-Affinity-Photo )
+- you may use https://github.com/0xC0000054/gmic-8bf for windows (plugin install help: https://github.com/0xC0000054/gmic-8bf/wiki/Installing-in-Affinity-Photo ) <kbd>*2024-06-28, AP v2.5.3*</kbd>
 
 ---
 
