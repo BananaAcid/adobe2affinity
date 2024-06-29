@@ -1,9 +1,13 @@
 # Photoshop to Affinity Photo
 Documentation on using photo - listing frequently asked questions when switching from Photoshop to Affinity Photo
 
-**A list of FAQs and how to solve them. Please feel free to open a discussion, post issues and provide pull requests.**
+**Please feel free to open a discussion, post issues and provide pull requests.**
 
 FAQs on licensing and more is at Affinities forum https://forum.affinity.serif.com/
+
+An overview off the UI and some examples (layers, masking, ...) can be found here: https://affinity.serif.com/learn/photo/desktop/quickstart/
+
+(yes finding was not intuitive, luckily, it's existence was mentioned in the forums) 
 
 ---
 
