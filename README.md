@@ -7,7 +7,7 @@ FAQs on licensing and more is at Affinities forum https://forum.affinity.serif.c
 
 An overview off the UI and some examples (layers, masking, ...) can be found here: https://affinity.serif.com/learn/photo/desktop/quickstart/
 
-(yes finding was not intuitive, luckily, it's existence was mentioned in the forums) 
+(Yes finding it, was not intuitive, luckily, it's existence was mentioned in the forums) 
 
 ---
 
