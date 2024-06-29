@@ -14,6 +14,8 @@
 
 ## Premiere / AfterEffects
 - DaVinci Resolve
+- Blender Video Editing mode - https://www.blender.org/features/video-editing/
+- KDEnlive
 
 
 ## Adobe Animate
