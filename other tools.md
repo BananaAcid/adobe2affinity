@@ -5,7 +5,7 @@
 - free (no upselling for main features) or cheap one time fee
 
 ## Adobe Photoshop, Illustrator, InDesign
-... Gimp is alternative for me
+... Gimp is **NOT** an alternative for me
 - Affinity Photo, Designer, Publisher
 
 ## Adobe XD
