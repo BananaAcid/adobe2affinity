@@ -41,6 +41,7 @@
 ## Adobe Illustrator
 - InkScape ... Bad UX + bad UI ... but free and works
 - Affinity Designer
+- Illustrator CS2 ... FREE and old. And clunky.
 
 
 ## Acrobat
