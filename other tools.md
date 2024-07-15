@@ -34,8 +34,8 @@
 - flashdevelop (homepage is broken, code only)
 - Haxe - IDE integrations, but none with animation UI - https://haxe.org/documentation/introduction/editors-and-ides.html
 
-### Adobe Illustrator
-- InkScape ... Bad UX + bad UI
+## Adobe Illustrator
+- InkScape ... Bad UX + bad UI ... but works
 
 
 ## Acrobat
