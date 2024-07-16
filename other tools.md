@@ -3,6 +3,7 @@
 - **UI should be modern.**
 - Locally installable
 - free (no upselling for main features) or cheap one time fee
+- NO SUBSCRIPTION FEE.
 
 ---
 
@@ -25,8 +26,11 @@
 ## Adobe Animate
 ... no real replacement yet (SVGator and Lottie Editor do it all, but have a monthly cost)
 
+Maybe: Expressive Animator - Nice UI, Cross Platform, exports to SVG (SMIL+CSS) no JS, Lottie, GIF, Video, ... But it has a subscription fee: $150 a year (first: $45) ( https://expressive.app/expressive-animator/ )
+
 ### SVG Editors with Timeline
-- SVG Artista - https://svgartista.net/
+- aphalina - downloadable, WINDOWS, free tier, onetime purchase (1year updates) --> HTML5+SVG+JS output
+- SVG Animator - simplistic ... ( Usage is unique: https://svg-animator.vercel.app/guide )
 
 ### Players
 - Ruffle Player / Wasm - SWF files
@@ -36,6 +40,7 @@
 - Adobe CS6 (last non subscription version) Flash Professional - has it all to the latest Flash Version, and use Ruffle with it. small cost buying it
 - Wick Editor for Animations - exports to its own html based file https://www.wickeditor.com/#/
 - SYNfig Animation Editor - exports to lottie format https://www.synfig.org/
+- Haiku Animator - free Lottie GUI - OSX prebuild binary, open source, ( https://www.haikuanimator.com/ , https://github.com/HaikuTeam/animator/ ) - result is a SVG
 
 ### Code Editors
 - flashdevelop (homepage is broken, code only)
