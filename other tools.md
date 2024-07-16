@@ -23,6 +23,10 @@
 
 
 ## Adobe Animate
+... no real replacement yet (SVGator and Lottie Editor do it all, but have a monthly cost)
+
+### SVG Editors with Timeline
+- SVG Artista - https://svgartista.net/
 
 ### Players
 - Ruffle Player / Wasm - SWF files
@@ -39,16 +43,18 @@
 
 
 ## Adobe Illustrator
-- InkScape ... Bad UX + bad UI ... but free and works
 - Affinity Designer
+- InkScape ... Bad UX + bad UI ... but free and works
 - Illustrator CS2 ... FREE and old. And clunky.
+- Graphite - additionally to the above: has node based editing ( https://graphite.rs/ )
 
 
 ## Acrobat
 ... create and edit
 - OnlyOFFICE PDF Editor
 - InkScape
-- LibreOffice Draw
+- LibreOffice-Draw
+- *SterlingPDF - Selfhosted in Docker, Dashbord with edit options (no Forms yet, but on their todo)*
 // Sejda (web - online only)
 // PDF24 Creator (Win Only)
 
@@ -58,4 +64,9 @@
 
 ## MS Office
 - OnlyOFFICE Desktop
-  * + Thunderbird
+// LibreOffice - Bad UI, even when switching the menu to an Office like ribbon menu
+
+### E-Mail
+- Thunderbird - nice UI + UX since recently, Exchange Support
+- MailSpring - Super nice UI + Open Source
+// Spark Mail - Closed Source, Nice UI, free basic version is ok
