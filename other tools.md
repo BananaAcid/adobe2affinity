@@ -28,6 +28,9 @@
 
 Maybe: Expressive Animator - Nice UI, Cross Platform, exports to SVG (SMIL+CSS) no JS, Lottie, GIF, Video, ... But it has a subscription fee: $150 a year (first: $45) ( https://expressive.app/expressive-animator/ )
 
+### Their own thing - Vector Animation Guis
+Reallusion Cartoon Animator 5 - 1 time payment $150 - OK UI, nice deformation tools and a lot you need for animating (IK, Paths, deformation masks, ...) -- export types unknown ( https://www.reallusion.com/cartoon-animator/default.html )
+
 ### SVG Editors with Timeline
 - aphalina - downloadable, WINDOWS, free tier, onetime purchase (1year updates) --> HTML5+SVG+JS output
 - SVG Animator - simplistic ... ( Usage is unique: https://svg-animator.vercel.app/guide )
