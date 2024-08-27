@@ -81,13 +81,17 @@ There is no list of custom colors like within the color selection dialog in PS o
 
 ## Where is the Web Font selection?
 Only those installed on the system are available, not even google fonts or alike <kbd>*2024-06-28, AP v2.5.3*</kbd>
-### No solution known 
+### Workaround
+- download and install a font manager like [**FontBase** (win/mac/linux)](https://fontba.se/) (more here: https://fonts.google.com/knowledge/using_type/installing_and_managing_fonts) <kbd>*2024-08-27, AP v2.5.3*</kbd>
+### No solution known
 - <kbd>*2024-06-28, AP v2.5.3*</kbd>
 
 ## What plugin to use to export to .ico (for windows programs or web) with multiple sizes included
 Threre is no plugin. Visual Studio has an integrated .ico icon editor on windows. (https://learn.microsoft.com/en-us/cpp/windows/image-editor-for-icons?view=msvc-170)
-### Solution
+### Workaround
 - you may use https://redketchup.io/icon-converter <kbd>*2024-08-27, AP v2.5.3*</kbd>
+### No solution known
+- <kbd>*>*2024-08-27, AP v2.5.3*</kbd>
 
 
 ---
