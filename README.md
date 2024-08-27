@@ -35,6 +35,7 @@ Smart-Objects are Photoshop specific: https://helpx.adobe.com/photoshop/using/cr
 ## How do I enable snapping for the crop tool?
 Using the crop tool to crop the image, the magnet does not affect it, it does not snap to the outermost used pixels. <kbd>*2024-06-28, AP v2.5.3*</kbd>
 ### No Solution known
+- <kbd>*2024-06-28, AP v2.5.3*</kbd>
 
 ## Why does the magic wand not select anything?
 Sometimes, there is no layer selected/active when opening an image / removing layers <kbd>*2024-06-28, AP v2.5.3*</kbd>
@@ -54,6 +55,7 @@ Double clicking on the layer's right side itself is not available <kbd>*2024-06-
 ## Is there an option to disable: auto select layer
 There seems to be no toggle to change auto selecting the layer by clicking on pixels to only select within the current selected layer <kbd>*2024-06-28, AP v2.5.3*</kbd>
 ### No solution known
+- <kbd>*2024-06-28, AP v2.5.3*</kbd>
 ### Related
 - But there is a dropdown top left below the menu, to select a specific object selection mode, but you need to activate the `Move Tool` and have no layer selected, to be able to change it <kbd>*2024-06-28, AP v2.5.3*</kbd>
 
@@ -72,7 +74,7 @@ There seems to be no toggle to change auto selecting the layer by clicking on pi
 
 ## Are there more filters?
 ### Solution
-- you may use https://github.com/0xC0000054/gmic-8bf for windows (plugin install help: https://github.com/0xC0000054/gmic-8bf/wiki/Installing-in-Affinity-Photo ) <kbd>*2024-06-28, AP v2.5.3*</kbd>
+- you may use https://github.com/0xC0000054/gmic-8bf for **windows** (plugin install help: https://github.com/0xC0000054/gmic-8bf/wiki/Installing-in-Affinity-Photo ) <kbd>*2024-06-28, AP v2.5.3*</kbd>
 
 ## Is there a list of previously used colors?
 There is no list of custom colors like within the color selection dialog in PS or other tools <kbd>*2024-06-28, AP v2.5.3*</kbd>
@@ -93,6 +95,12 @@ Threre is no plugin. Visual Studio has an integrated .ico icon editor on windows
 ### No solution known
 - <kbd>*>*2024-08-27, AP v2.5.3*</kbd>
 
+## What plugin to use to export to .icns (for MacOS programs)
+Threre is no plugin.
+### Workaround
+- you may use https://www.aconvert.com/image/png-to-icns/ <kbd>*2024-08-27, AP v2.5.3*</kbd>
+### No solution known
+- <kbd>*>*2024-08-27, AP v2.5.3*</kbd>
 
 ---
 
