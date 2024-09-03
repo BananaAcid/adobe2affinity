@@ -88,10 +88,10 @@ Only those installed on the system are available, not even google fonts or alike
 ### No solution known
 - <kbd>*2024-06-28, AP v2.5.3*</kbd>
 
-## What plugin to use to export to .ico (for windows programs or web) with multiple sizes included
+## What plugin to use to export to .ico (for windows programs or web/favicon) with multiple sizes included
 Threre is no plugin. Visual Studio has an integrated .ico icon editor on windows. (https://learn.microsoft.com/en-us/cpp/windows/image-editor-for-icons?view=msvc-170)
 ### Workaround
-- you may use https://redketchup.io/icon-converter <kbd>*2024-08-27, AP v2.5.3*</kbd>
+- you may use to import an image, export, edit .ico files at https://redketchup.io/icon-converter <kbd>*2024-08-27, AP v2.5.3*</kbd>
 ### No solution known
 - <kbd>*>*2024-08-27, AP v2.5.3*</kbd>
 
