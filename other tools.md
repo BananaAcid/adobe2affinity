@@ -61,6 +61,7 @@ Maybe: Expressive Animator - Nice UI, Cross Platform, exports to SVG (SMIL+CSS) 
 ## Acrobat
 ... create and edit
 - OnlyOFFICE PDF Editor
+- PDFGear (MacOs, Win, Mobile - no Linux, seems like to have all AcrobatPro features)
 - InkScape
 - LibreOffice-Draw
 - *SterlingPDF - Selfhosted in Docker, Dashbord with edit options (no Forms yet, but on their todo)*
