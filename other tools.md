@@ -80,3 +80,6 @@ Maybe: Expressive Animator - Nice UI, Cross Platform, exports to SVG (SMIL+CSS) 
 - Thunderbird - nice UI + UX since recently, Exchange Support
 - MailSpring - Super nice UI + Open Source
 // Spark Mail - Closed Source, Nice UI, free basic version is ok
+
+## Workflow automation
+- n8n (`npm intall n8n`)
