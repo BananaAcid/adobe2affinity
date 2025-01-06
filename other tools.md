@@ -21,6 +21,7 @@
 - DaVinci Resolve
 - Blender Video Editing mode - https://www.blender.org/features/video-editing/
 - KDEnlive
+- OpenShot - https://www.openshot.org
 
 
 ## Adobe Animate
