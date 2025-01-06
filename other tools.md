@@ -24,6 +24,9 @@
 - OpenShot - https://www.openshot.org
 
 
+## Adobe MediaEncoder
+- HandBrake
+
 ## Adobe Animate
 ... no real replacement yet (SVGator and Lottie Editor do it all, but have a monthly cost)
 
