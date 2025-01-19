@@ -11,8 +11,9 @@
 ... Gimp is **NOT** an alternative for me
 - Affinity Photo, Designer, Publisher
 
-- Krita + plugin kritaaidiffusion.com (Generative fill and othr AI options also with Flux Model)
-- Fooocus AI image gen and edit locally (fooocus.one)
+- Krita + plugin kritaaidiffusion.com (Generative fill and other AI options also with Flux Model)
+- Fooocus AI (image gen and edit locally, fooocus.one)
+- Photopea online (for quick stuff or AdobeXD imports)
 
 ## Adobe XD
 - PenPot (needs docker app, but Open Source)
