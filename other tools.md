@@ -34,7 +34,7 @@ Goals:
 - DarkTable - RAW editing support
 
 ## Adobe Bridge
-- xnView - Bad UI - additionally has a powerful super simple batch editing tool (or seperate Nconvert) (not commercially)
+- xnViewMP - okayish UI - additionally has a powerful super simple batch editing tool (or seperate Nconvert) (not commercially) - https://www.xnview.com/en/xnviewmp/
 - Eagle - (only Win,Mac) $35 1-time fee, no meta editing, comparisson: https://en.eagle.cool/blog/post/adobe-bridge-alternative -- hp: https://eagle.cool/
 
 ## Adobe Illustrator
