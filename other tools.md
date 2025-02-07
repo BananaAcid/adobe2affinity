@@ -32,6 +32,8 @@ Goals:
 
 ## Adobe LightRoom
 - DarkTable - RAW editing support
+
+## Adobe Bridge
 - xnView - Bad UI - additionally has a powerful super simple batch editing tool (or seperate Nconvert) (not commercially)
 
 ## Adobe Illustrator
