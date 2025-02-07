@@ -35,6 +35,7 @@ Goals:
 
 ## Adobe Bridge
 - xnView - Bad UI - additionally has a powerful super simple batch editing tool (or seperate Nconvert) (not commercially)
+- Eagle - $35 1-time fee, https://eagle.cool/
 
 ## Adobe Illustrator
 - Affinity Designer
