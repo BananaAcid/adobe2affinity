@@ -1,9 +1,10 @@
 # Other Tools
+Goals:
 - Multiplatform: Win, OSX, Linux
 - **UI should be modern.**
 - Locally installable
-- free (no upselling for main features) or cheap one time fee
-- NO SUBSCRIPTION FEE.
+- free (no upselling for main features) or a cheap one-time fee
+- **NO SUBSCRIPTION FEE.**
 
 ---
 
@@ -12,17 +13,16 @@
 - Affinity Photo, Designer, Publisher
 
 - Krita + plugin kritaaidiffusion.com (Generative fill and other AI options also with Flux Model)
-- Fooocus AI (image gen and edit locally, fooocus.one)
-- Photopea online (for quick stuff or AdobeXD imports)
+- Fooocus AI (AI image generation and edit locally [inpaint and more], fooocus.one)
+- Photopea online (for quick photo editing of PSDs or AdobeXD imports)
 
 ## Adobe XD
-- PenPot (needs docker app, but Open Source)
+- PenPot (Free Web Online, or **local docker app**, Open Source)
 - Lunacy (Desktop App, free but Closed Source)
-
 
 ## Premiere / AfterEffects
 - DaVinci Resolve
-- Blender Video Editing mode - https://www.blender.org/features/video-editing/
+- Blender -> video editing mode - https://www.blender.org/features/video-editing/
 - KDEnlive
 - OpenShot - https://www.openshot.org
 
@@ -31,7 +31,31 @@
 - HandBrake
 
 ## Adobe LightRoom
-- DarkTable
+- DarkTable - RAW editing support
+- xnView - Bad UI - additionally has a powerful super simple batch editing tool (or seperate Nconvert) (not commercially)
+
+## Adobe Illustrator
+- Affinity Designer
+- Graphite - additionally to the above: has node based editing ( https://graphite.rs/ )
+- InkScape ... Bad UX + bad UI ... but free and works
+- Illustrator CS2 ... FREE and old. And clunky.
+
+
+## Acrobat
+**... create and edit**
+- OnlyOFFICE PDF Editor (is part of OnlyOFFICE Desktop Editors, https://www.onlyoffice.com/de/pdf-editor.aspx)
+- PDFGear (MacOs, Win, Mobile - no Linux, seems like to have all AcrobatPro features)
+- InkScape
+- LibreOffice -> Draw
+- *SterlingPDF - Selfhosted in Docker, Dashbord with edit options (no Forms yet, but on their todo)*
+// Sejda (web - online only)
+// PDF24 Creator (Download, Win Only)
+
+### Unlock / remove PDF Protection
+- https://smallpdf.com/unlock-pdf
+
+## markup/document convert any format into another
+- PanDoc - Desktop - https://pandoc.org/
 
 ## Adobe Animate
 ... no real replacement yet (SVGator and Lottie Editor do it all, but have a monthly cost)
@@ -45,6 +69,7 @@ Maybe: Expressive Animator - Nice UI, Cross Platform, exports to SVG (SMIL+CSS) 
 ### SVG Editors with Timeline
 - aphalina - downloadable, WINDOWS, free tier, onetime purchase (1year updates) --> HTML5+SVG+JS output
 - SVG Animator - simplistic ... ( Usage is unique: https://svg-animator.vercel.app/guide )
+// SVGator is not a solution
 
 ### Players
 - Ruffle Player / Wasm - SWF files
@@ -60,33 +85,13 @@ Maybe: Expressive Animator - Nice UI, Cross Platform, exports to SVG (SMIL+CSS) 
 - flashdevelop (homepage is broken, code only)
 - Haxe - IDE integrations, but none with animation UI - https://haxe.org/documentation/introduction/editors-and-ides.html
 
-
-## Adobe Illustrator
-- Affinity Designer
-- InkScape ... Bad UX + bad UI ... but free and works
-- Illustrator CS2 ... FREE and old. And clunky.
-- Graphite - additionally to the above: has node based editing ( https://graphite.rs/ )
-
-
-## Acrobat
-... create and edit
-- OnlyOFFICE PDF Editor
-- PDFGear (MacOs, Win, Mobile - no Linux, seems like to have all AcrobatPro features)
-- InkScape
-- LibreOffice-Draw
-- *SterlingPDF - Selfhosted in Docker, Dashbord with edit options (no Forms yet, but on their todo)*
-// Sejda (web - online only)
-// PDF24 Creator (Win Only)
-
-## markup convert any format into another
-- PanDoc - Desktop - https://pandoc.org/
-
+---
 
 ## MS Office
 - OnlyOFFICE Desktop
 // LibreOffice - Bad UI, even when switching the menu to an Office like ribbon menu
 
-### E-Mail
+## E-Mail
 - Thunderbird - nice UI + UX since recently, Exchange Support
 - MailSpring - Super nice UI + Open Source
 // Spark Mail - Closed Source, Nice UI, free basic version is ok
