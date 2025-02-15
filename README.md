@@ -11,6 +11,12 @@ An overview off the UI and some examples (layers, masking, ...) can be found her
 
 ---
 
+## Autocorrect Color / Contrast ...
+There is 4 Buttons at the top, that do that <kbd>*2025-02-15, AP v2.5.7</kbd>
+### Solutions
+- ![](https://forum.affinity.serif.com/uploads/monthly_05_2016/post-59-0-91647500-1464376324.png)
+- Reference: https://forum.affinity.serif.com/index.php?/topic/20626-are-there-any-quick-fix-auto-settings/
+
 ## Remove image background / select object, like with PS's AI
 Affinity Photo has no smart-background-remove tools. <kbd>*2024-06-28, AP v2.5.3*</kbd>
 ### Solutions
