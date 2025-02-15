@@ -57,8 +57,14 @@ Goals:
 ### Unlock / remove PDF Protection
 - https://smallpdf.com/unlock-pdf
 
-## markup/document convert any format into another
+### markup/document convert any format into another
 - PanDoc - Desktop - https://pandoc.org/
+
+
+## Creative Cloud Font Management
+- FontBase - https://fontba.se/
+
+
 
 ## Adobe Animate
 ... no real replacement yet (SVGator and Lottie Editor do it all, but have a monthly cost)
