@@ -51,7 +51,9 @@ Goals:
 - InkScape
 - LibreOffice -> Draw
 - *SterlingPDF - Selfhosted in Docker, Dashbord with edit options (no Forms yet, but on their todo)*
+
 // Sejda (web - online only)
+
 // PDF24 Creator (Download, Win Only)
 
 ### Unlock / remove PDF Protection
@@ -78,6 +80,7 @@ Maybe: Expressive Animator - Nice UI, Cross Platform, exports to SVG (SMIL+CSS) 
 ### SVG Editors with Timeline
 - aphalina - downloadable, WINDOWS, free tier, onetime purchase (1year updates) --> HTML5+SVG+JS output
 - SVG Animator - simplistic ... ( Usage is unique: https://svg-animator.vercel.app/guide )
+
 // SVGator is not a solution
 
 ### Players
@@ -98,11 +101,13 @@ Maybe: Expressive Animator - Nice UI, Cross Platform, exports to SVG (SMIL+CSS) 
 
 ## MS Office
 - OnlyOFFICE Desktop
+
 // LibreOffice - Bad UI, even when switching the menu to an Office like ribbon menu
 
 ## E-Mail
 - Thunderbird - nice UI + UX since recently, Exchange Support
 - MailSpring - Super nice UI + Open Source
+
 // Spark Mail - Closed Source, Nice UI, free basic version is ok
 
 ## Workflow automation
