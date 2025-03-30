@@ -82,6 +82,15 @@ Goals:
 - LMMS - just like FL Studio, VST, ... - https://docs.lmms.io/user-manual/getting-started/faq
 - Ardour - Single video track (can export audio, non destructive editing, VST, audio routing ... - https://ardour.org/
 
+### Modular Synth
+- Bespoke Synth - modular synthesizer (nodes based) - https://www.bespokesynth.com/
+ 
+### Tracker
+- Efflux - Works in browser - https://www.igorski.nl/application/efflux/
+
+#### Simple Tools
+- draw.audio - simple melody creation tool, Online - https://draw.audio/
+
 
 ## Adobe Animate
 ... no real replacement yet (SVGator and Lottie Editor do it all, but have a monthly cost)
