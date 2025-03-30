@@ -4,9 +4,13 @@ Goals:
 - **UI should be modern.**
 - Locally installable
 - free (no upselling for main features) or a cheap one-time fee
+- Commercially usable
 - **NO SUBSCRIPTION FEE.**
 
 ---
+
+## Vibe Graphics Editing
+- Google AI Studio
 
 ## Adobe Photoshop, Illustrator, InDesign
 ... Gimp is **NOT** an alternative for me
@@ -28,7 +32,10 @@ Goals:
 
 
 ## Adobe MediaEncoder
-- HandBrake
+- ShutterEncoder - Converts everything to everything, Nice UI, image sequence to video, image from video and more, organized like video Editing Software - https://www.shutterencoder.com/
+- HandBrake - A lot of video otions, a bit technical
+
+// Axiom - (Win) Simpler then HandBrake but good for generating FFMPEG commandline for automation - https://axiomui.github.io/
 
 ## Adobe LightRoom
 - DarkTable - RAW editing support
@@ -67,6 +74,14 @@ Goals:
 - FontBase - https://fontba.se/
 
 
+## Adobe Audition
+- Tenacity - Wave form editing - https://tenacityaudio.org/
+- Audacity - Wave form editing - https://github.com/audacity/audacity/releases
+
+### Audio Mixers
+- LMMS - just like FL Studio, VST, ... - https://docs.lmms.io/user-manual/getting-started/faq
+- Ardour - Single video track (can export audio, non destructive editing, VST, audio routing ... - https://ardour.org/
+
 
 ## Adobe Animate
 ... no real replacement yet (SVGator and Lottie Editor do it all, but have a monthly cost)
@@ -81,17 +96,17 @@ Maybe: Expressive Animator - Nice UI, Cross Platform, exports to SVG (SMIL+CSS) 
 - aphalina - downloadable, WINDOWS, free tier, onetime purchase (1year updates) --> HTML5+SVG+JS output
 - SVG Animator - simplistic ... ( Usage is unique: https://svg-animator.vercel.app/guide )
 
-// SVGator is not a solution
+// SVGator is not a free solution
 
 ### Players
-- Ruffle Player / Wasm - SWF files
-- Lottie -> alternative to swf - lottie player is free, there seem to free export plugins for a bunch of tools (but the Lottie Editor has a montly fee)
+- Ruffle Player / Wasm - for SWF files
+- Lottie -> alternative to swf: lottie files - lottie player is free, there seem to free export plugins for a bunch of tools (but the Lottie Editor has a montly fee)
 
 ### Editors with animation interface
 - Adobe CS6 (last non subscription version) Flash Professional - has it all to the latest Flash Version, and use Ruffle with it. small cost buying it
 - Wick Editor for Animations - exports to its own html based file https://www.wickeditor.com/#/
 - SYNfig Animation Editor - exports to lottie format https://www.synfig.org/
-- Haiku Animator - free Lottie GUI - OSX prebuild binary, open source, ( https://www.haikuanimator.com/ , https://github.com/HaikuTeam/animator/ ) - result is a SVG
+- Haiku Animator - free Lottie GUI - result is a SVG - OSX prebuild binary, open source, ( https://www.haikuanimator.com/ , https://github.com/HaikuTeam/animator/ )
 
 ### Code Editors
 - flashdevelop (homepage is broken, code only)
