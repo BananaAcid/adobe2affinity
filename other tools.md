@@ -1,16 +1,17 @@
 # Other Tools
 Goals:
-- Multiplatform: Win, OSX, Linux
-- **UI should be modern.**
-- Locally installable
-- free (no upselling for main features) or a cheap one-time fee
-- Commercially usable
+- **Multiplatform: Win, OSX, Linux**
 - **NO SUBSCRIPTION FEE.**
+- **UI should be modern.**
+- **free (no upselling for main features) or a cheap one-time fee**
+- **Commercially usable**
+- Locally installable
+- Open Source
 
 ---
 
 ## Vibe Graphics Editing
-- Google AI Studio
+- Google AI Studio - (only online) "the AI Photoshop" - https://aistudio.google.com/prompts/new_chat
 
 ## Adobe Photoshop, Illustrator, InDesign
 ... Gimp is **NOT** an alternative for me
@@ -82,11 +83,17 @@ Goals:
 - LMMS - just like FL Studio, VST, ... - https://docs.lmms.io/user-manual/getting-started/faq
 - Ardour - Single video track (can export audio, non destructive editing, VST, audio routing ... - https://ardour.org/
 
+### tablature editor / Notation app: Midi / Notes
+- musescore - https://musescore.org
+
+// Impro-Visor - (not a great UI) Music notes view - https://www.cs.hmc.edu/~keller/jazz/improvisor/
+
 ### Modular Synth
 - Bespoke Synth - modular synthesizer (nodes based) - https://www.bespokesynth.com/
  
 ### Tracker
 - Efflux - Works in browser - https://www.igorski.nl/application/efflux/
+- OpenMPT - (Win, works with WINE on others) VST - https://openmpt.org/
 
 #### Simple Tools
 - draw.audio - simple melody creation tool, Online - https://draw.audio/
