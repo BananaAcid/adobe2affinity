@@ -78,6 +78,7 @@ Goals:
 ## Adobe Audition
 - Tenacity - Wave form editing - https://tenacityaudio.org/
 - Audacity - Wave form editing - https://github.com/audacity/audacity/releases
+- Audacity 4 (in Development) - music mixing - https://www.audacityteam.org/beta/
 
 ### Audio Mixers
 - LMMS - just like FL Studio, VST, ... - https://docs.lmms.io/user-manual/getting-started/faq
