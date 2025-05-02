@@ -78,7 +78,7 @@ Goals:
 ## Adobe Audition
 - Tenacity - Wave form editing - https://tenacityaudio.org/
 - Audacity - Wave form editing - https://github.com/audacity/audacity/releases
-- Audacity 4 (in Development) - music mixing - https://www.audacityteam.org/beta/
+- Audacity 4 [DAW] (in Development) - music mixing - https://www.audacityteam.org/beta/
 
 ### Audio Mixers
 - LMMS - just like FL Studio, VST, ... - https://docs.lmms.io/user-manual/getting-started/faq
@@ -129,12 +129,31 @@ Maybe: Expressive Animator - Nice UI, Cross Platform, exports to SVG (SMIL+CSS) 
 - flashdevelop (homepage is broken, code only)
 - Haxe - IDE integrations, but none with animation UI - https://haxe.org/documentation/introduction/editors-and-ides.html
 
+## Adobe Brackets / Dreamweaver
+- VS Code / with plugins (wysiwyg - https://marketplace.visualstudio.com/items?itemName=node-projects.vscode-designer-addon )
+- Bolt.diy - vibe code generator - https://gist.github.com/BananaAcid/6f1055fde950bf3fe5fb24b308dfaaa8
+- Bootstrap Studio - WYSIWYG - https://bootstrapstudio.io
+
+
+---
+
+## 3D modeling
+- Blender 3D
+
+## 3D Rigging / character animation
+- mixamo
+
+## CAD
+... undecided.
+- freeCAD
+- (Blender with CAD plugin)
+
 ---
 
 ## MS Office
 - OnlyOFFICE Desktop
 
-// LibreOffice - Bad UI, even when switching the menu to an Office like ribbon menu
+// LibreOffice (OpenOffice) - Bad UI, even when switching the menu to an Office like ribbon menu, visual differences rendering of word/powerpoint files
 
 ## E-Mail
 - Thunderbird - nice UI + UX since recently, Exchange Support
@@ -143,4 +162,19 @@ Maybe: Expressive Animator - Nice UI, Cross Platform, exports to SVG (SMIL+CSS) 
 // Spark Mail - Closed Source, Nice UI, free basic version is ok
 
 ## Workflow automation
-- n8n (`npm intall n8n`)
+- n8n (`npm intall n8n`) - self hosted / run locally
+
+## MS Teams
+- MatterMost - also has Kanban boards and project timelines and video chat and more with plugins (self hosted)
+- RocketChat - (self hosted)
+
+## Zoom
+- jitsi - can be used online without registering: jit.si (& can be self hosted)
+
+## Password safe
+- KeepassXC
+- Bitwarden with VaultWarden server - for teams
+- (PassBolt - is quite restricted, for Teams)
+
+## MS PowerBI
+- MetaBase - (self hosted) - https://github.com/metabase/metabase
