@@ -11,7 +11,8 @@ Goals:
 ---
 
 ## Vibe Graphics Editing
-- Google AI Studio - (only online) "the AI Photoshop" - https://aistudio.google.com/prompts/new_chat
+- Google AI Studio - (only online, free) "the AI Photoshop" - https://aistudio.google.com/prompts/new_chat
+- ...
 
 ## Adobe Photoshop, Illustrator, InDesign
 ... Gimp is **NOT** an alternative for me
@@ -174,6 +175,9 @@ Maybe: Expressive Animator - Nice UI, Cross Platform, exports to SVG (SMIL+CSS) 
 ## MS Whiteboard / (partly Notes)
 - ExcaliDraw - Collaborative white board - https://excalidraw.com/ (install as PWA)
 
+## MS PowerBI
+- MetaBase - (self hosted) - https://github.com/metabase/metabase
+
 ---
 
 ## Password safe
@@ -181,5 +185,7 @@ Maybe: Expressive Animator - Nice UI, Cross Platform, exports to SVG (SMIL+CSS) 
 - Bitwarden with VaultWarden server - for teams
 - (PassBolt - is quite restricted, for Teams)
 
-## MS PowerBI
-- MetaBase - (self hosted) - https://github.com/metabase/metabase
+---
+
+## App Dashboards / multi instant messaging (IM) client
+- Ferdium (Franz) - 1-UI for online services - https://ferdium.org/
