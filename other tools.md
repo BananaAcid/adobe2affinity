@@ -72,7 +72,7 @@ Goals:
 - PanDoc - Desktop - https://pandoc.org/
 
 
-## Creative Cloud Font Management
+## Creative Cloud - Font Management
 - FontBase - https://fontba.se/
 
 
@@ -172,8 +172,21 @@ Maybe: Expressive Animator - Nice UI, Cross Platform, exports to SVG (SMIL+CSS) 
 ## MS Teams video only / Zoom
 - jitsi - can be used online without registering: jit.si (& can be self hosted)
 
-## MS Whiteboard / (partly Notes)
-- ExcaliDraw - Collaborative white board - https://excalidraw.com/ (install as PWA)
+## MS Whiteboard / (partly OneNote)
+- ExcaliDraw - Collaborative white board - https://excalidraw.com/ (install as PWA for offline use) ( Desktop wrapper, not offline use: https://github.com/pgkt04/excalidraw-desktop )
+
+## MS OneNote - Only Note taking as documents in MarkDown (good for use with 
+- Obsidian - Note taking with graphs and more and massive plugin lib (uses normal folders with MD files, Free for private & commercial) - https://obsidian.md/
+  - how to sync: optimal solution -> sync with self-hosted git ([Gitea](https://gitea.com/)) - https://github.com/Vinzent03/obsidian-git (all desktop + all mobile)
+  - in doc code exec like Jupyter Notebook - https://github.com/twibiral/obsidian-execute-code
+  - inline scripts (shortcut words - js code triggers) - https://github.com/jon-heard/obsidian-inline-scripts
+- LogSeq - Note taking with graphs and more (with a unique folder structure, also based on MD files, open source) - https://logseq.com/
+
+### use MarkDown files with Wikis
+- MDwiki - has to be "installed" works with static files on local/remote, no mermaidJS (absolute simple setup) - https://dynalon.github.io/mdwiki
+- Reneto - can be run locally with npm (or hosted/docker), uses normal folders and files - https://raneto.com/
+- WikiMD - self hosted server / docker - https://linbreux.github.io/wikmd/
+
 
 ## MS PowerBI
 - MetaBase - (self hosted) - https://github.com/metabase/metabase
