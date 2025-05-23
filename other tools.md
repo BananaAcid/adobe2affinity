@@ -168,8 +168,13 @@ Maybe: Expressive Animator - Nice UI, Cross Platform, exports to SVG (SMIL+CSS) 
 - MatterMost - also has Kanban boards and project timelines and video chat and more with plugins (self hosted)
 - RocketChat - (self hosted)
 
-## Zoom
+## MS Teams video only / Zoom
 - jitsi - can be used online without registering: jit.si (& can be self hosted)
+
+## MS Whiteboard / (partly Notes)
+- ExcaliDraw - Collaborative white board - https://excalidraw.com/ (install as PWA)
+
+---
 
 ## Password safe
 - KeepassXC
