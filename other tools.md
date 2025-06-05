@@ -140,6 +140,7 @@ Maybe: Expressive Animator - Nice UI, Cross Platform, exports to SVG (SMIL+CSS) 
 
 ## 3D modeling
 - Blender 3D
+- Goxel - Voxel 3D Editor - https://goxel.xyz/
 
 ## 3D Rigging / character animation
 - mixamo
@@ -151,12 +152,17 @@ Maybe: Expressive Animator - Nice UI, Cross Platform, exports to SVG (SMIL+CSS) 
 
 ---
 
+## MS Edge
+- Chromium - The basis before becomming Edge,Chrome,Brave, ...
+- Ungoogled Chromium - Cleaned up Chromium, really safe - https://ungoogled-software.github.io/ungoogled-chromium-binaries/
+    - Enable Chrome Plugins - https://github.com/NeverDecaf/chromium-web-store
+
 ## MS Office
 - OnlyOFFICE Desktop
 
 // LibreOffice (OpenOffice) - Bad UI, even when switching the menu to an Office like ribbon menu, visual differences rendering of word/powerpoint files
 
-## E-Mail
+## Outlook E-Mail
 - Thunderbird - nice UI + UX since recently, Exchange Support
 - MailSpring - Super nice UI + Open Source
 
