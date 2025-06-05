@@ -191,6 +191,11 @@ Maybe: Expressive Animator - Nice UI, Cross Platform, exports to SVG (SMIL+CSS) 
 ## MS PowerBI
 - MetaBase - (self hosted) - https://github.com/metabase/metabase
 
+## OneDrive
+
+### Encrypt Folder on a per file basis, mount as Drive (can be used with any cloud storage: OneDrive, GoogleDrive, Dropbox, Mega.io, Box.com, ...)
+- SiriKali - Supports Fscrypt, Securefs, Ecryptfs, Cryfs, Encfs, Gocryptfs, Sshfs and Cryptomator - https://mhogomchungu.github.io/sirikali/
+
 ---
 
 ## Password safe
