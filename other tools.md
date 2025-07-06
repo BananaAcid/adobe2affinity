@@ -44,6 +44,7 @@ Goals:
 
 ## Adobe Bridge
 - xnViewMP - okayish UI - additionally has a powerful super simple batch editing tool (or seperate Nconvert) (not commercially) - https://www.xnview.com/en/xnviewmp/
+- DigiKam - okayish UI - additionally has AI helpers, batch convert, similar to xnViewMP - https://www.digikam.org
 - Eagle - (only Win,Mac) $35 1-time fee, no meta editing, comparisson: https://en.eagle.cool/blog/post/adobe-bridge-alternative -- hp: https://eagle.cool/
 
 ## Adobe Illustrator
