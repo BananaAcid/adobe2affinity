@@ -182,6 +182,12 @@ Maybe: Expressive Animator - Nice UI, Cross Platform, exports to SVG (SMIL+CSS) 
 ## MS Whiteboard / (partly OneNote)
 - ExcaliDraw - Collaborative white board - https://excalidraw.com/ (install as PWA for offline use) ( Desktop wrapper, not offline use: https://github.com/pgkt04/excalidraw-desktop )
 
+## MS Viso
+- draw.io Desktop - (can export and import visio: https://drawio-app.com/blog/import-and-export-vsdx-files/ ) - https://github.com/jgraph/drawio-desktop/releases
+- yEd - (okish UI, no visio import) - https://www.yworks.com/products/yed/download
+- *EdrawMax Desktop* - (one time fee) - https://www.edrawsoft.com/de/download-edrawmax.html
+- *OnlyOffice Diagram Viewer* - (only viewing .vsdx)
+
 ## MS OneNote - Only Note taking as documents in MarkDown (good for use with 
 - Obsidian - Note taking with graphs and more and massive plugin lib (uses normal folders with MD files, Free for private & commercial) - https://obsidian.md/
   - how to sync: optimal solution -> sync with self-hosted git ([Gitea](https://gitea.com/)) - https://github.com/Vinzent03/obsidian-git (all desktop + all mobile)
