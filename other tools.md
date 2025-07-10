@@ -37,7 +37,7 @@ Goals:
 - ShutterEncoder - Converts everything to everything, Nice UI, image sequence to video, image from video and more, organized like video Editing Software - https://www.shutterencoder.com/
 - HandBrake - A lot of video otions, a bit technical
 
-// Axiom - (Win) Simpler then HandBrake but good for generating FFMPEG commandline for automation - https://axiomui.github.io/
+// *Axiom* - (Win) Simpler then HandBrake but good for generating FFMPEG commandline for automation - https://axiomui.github.io/
 
 ## Adobe LightRoom
 - DarkTable - RAW editing support
@@ -62,9 +62,9 @@ Goals:
 - LibreOffice -> Draw
 - *SterlingPDF - Selfhosted in Docker, Dashbord with edit options (no Forms yet, but on their todo)*
 
-// Sejda (web - online only)
+// *Sejda* - (web - online only)
 
-// PDF24 Creator (Download, Win Only)
+// *PDF24 Creator* - (Download, Win Only)
 
 ### Unlock / remove PDF Protection
 - https://smallpdf.com/unlock-pdf
@@ -89,7 +89,7 @@ Goals:
 ### tablature editor / Notation app: Midi / Notes
 - musescore - https://musescore.org
 
-// Impro-Visor - (not a great UI) Music notes view - https://www.cs.hmc.edu/~keller/jazz/improvisor/
+// *Impro-Visor* - (not a great UI) Music notes view - https://www.cs.hmc.edu/~keller/jazz/improvisor/
 
 ### Modular Synth
 - Bespoke Synth - modular synthesizer (nodes based) - https://www.bespokesynth.com/
@@ -154,9 +154,9 @@ Maybe: Expressive Animator - Nice UI, Cross Platform, exports to SVG (SMIL+CSS) 
 ---
 
 ## MS Edge
-- Chromium - The basis before becomming Edge,Chrome,Brave, ...
 - Ungoogled Chromium - Cleaned up Chromium, really safe - https://ungoogled-software.github.io/ungoogled-chromium-binaries/
     - Enable Chrome Plugins - https://github.com/NeverDecaf/chromium-web-store
+- *Chromium* - The basis before becomming Edge,Chrome,Brave, ...
 
 ## MS Office
 - OnlyOFFICE Desktop
@@ -167,7 +167,7 @@ Maybe: Expressive Animator - Nice UI, Cross Platform, exports to SVG (SMIL+CSS) 
 - Thunderbird - nice UI + UX since recently, Exchange Support
 - MailSpring - Super nice UI + Open Source
 
-// Spark Mail - Closed Source, Nice UI, free basic version is ok
+// *Spark Mail* - Closed Source, Nice UI, free basic version is ok
 
 ## Workflow automation
 - n8n (`npm intall n8n`) - self hosted / run locally
@@ -194,6 +194,10 @@ Maybe: Expressive Animator - Nice UI, Cross Platform, exports to SVG (SMIL+CSS) 
 - Reneto - can be run locally with npm (or hosted/docker), uses normal folders and files - https://raneto.com/
 - WikiMD - self hosted server / docker - https://linbreux.github.io/wikmd/
 
+## MS Projects
+- OpenProject - (self hosted) (import MS Projects by exporting to EXCEL from projects first) - https://www.openproject.org/download-and-installation/
+- *Rillsoft Project* - (Win only) (One time fee) (import MS Project files https://www.youtube.com/watch?app=desktop&v=stIF4y5Hjaw ) - https://www.rillsoft.de/price/
+- *ProjectLibre* - (Ugly, version 1.9.8 not on Mac (use 1.9.3)) (can import MS Project files) - https://sourceforge.net/projects/projectlibre/
 
 ## MS PowerBI
 - MetaBase - (self hosted) - https://github.com/metabase/metabase
