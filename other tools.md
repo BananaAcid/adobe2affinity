@@ -2,9 +2,9 @@
 Goals:
 - **Multiplatform: Win, OSX, Linux**
 - **NO SUBSCRIPTION FEE.**
-- **UI should be modern.**
 - **free (no upselling for main features) or a cheap one-time fee**
 - **Commercially usable**
+- **UI should be modern.**
 - Locally installable
 - Open Source
 
@@ -12,46 +12,58 @@ Goals:
 
 ## Vibe Graphics Editing
 - Google AI Studio - (only online, free) "the AI Photoshop" - https://aistudio.google.com/prompts/new_chat
+- FreePik - (online, few free uses per day) - https://www.freepik.com/ai/photo-editor
 - ...
+
+
+## Screenshot
+- FlameShot - Close to MacOS Screenshot + Annotate + Arrows + more (but no repointing arrows, no curve smoothing, ...) - https://flameshot.org/
+- ShareX - (Windows only, Closed source)
+
 
 ## Adobe Photoshop, Illustrator, InDesign
 ... Gimp is **NOT** an alternative for me
-- Affinity Photo, Designer, Publisher
+- Affinity: Photo, Designer, Publisher
 
-- Krita + plugin kritaaidiffusion.com (Generative fill and other AI options also with Flux Model)
-- Fooocus AI (AI image generation and edit locally [inpaint and more], fooocus.one)
-- Photopea online (for quick photo editing of PSDs or AdobeXD imports)
+- Krita + plugin kritaaidiffusion.com - Generative fill and other AI options also with Flux Model
+- Fooocus AI - AI image generation and edit locally [inpaint and more] - fooocus.one
+- Photopea online - for quick photo editing of PSDs or AdobeXD imports - `https://www.photopea.com/?p=` (`?p=` will directly open the editor, not the homepage)
+
 
 ## Adobe XD
 - PenPot (Free Web Online, or **local docker app**, Open Source)
 - Lunacy (Desktop App, free but Closed Source)
 
+
 ## Premiere / AfterEffects
 - DaVinci Resolve
 - Blender -> video editing mode - https://www.blender.org/features/video-editing/
-- KDEnlive
+- KDEnlive 
 - OpenShot - https://www.openshot.org
 
 
 ## Adobe MediaEncoder
 - ShutterEncoder - Converts everything to everything, Nice UI, image sequence to video, image from video and more, organized like video Editing Software - https://www.shutterencoder.com/
-- HandBrake - A lot of video otions, a bit technical
+- HandBrake - A lot of video otions, a bit technical (UI is okayish)
 
 // *Axiom* - (Win) Simpler then HandBrake but good for generating FFMPEG commandline for automation - https://axiomui.github.io/
+
 
 ## Adobe LightRoom
 - DarkTable - RAW editing support
 
+
 ## Adobe Bridge
-- xnViewMP - okayish UI - additionally has a powerful super simple batch editing tool (or seperate Nconvert) (not commercially) - https://www.xnview.com/en/xnviewmp/
+- xnViewMP (**not commercially usable**) - okayish UI - additionally has a powerful super simple batch editing tool (or seperate Nconvert) (why in this list: because it is so good) - https://www.xnview.com/en/xnviewmp/
 - DigiKam - okayish UI - additionally has AI helpers, batch convert, similar to xnViewMP - https://www.digikam.org
 - Eagle - (only Win,Mac) $35 1-time fee, no meta editing, comparisson: https://en.eagle.cool/blog/post/adobe-bridge-alternative -- hp: https://eagle.cool/
+
 
 ## Adobe Illustrator
 - Affinity Designer
 - Graphite - additionally to the above: has node based editing ( https://graphite.rs/ )
-- InkScape ... Bad UX + bad UI ... but free and works
-- Illustrator CS2 ... FREE and old. And clunky.
+- InkScape - ... Bad UX + bad UI ... but free and works
+- Illustrator CS2 - ... FREE and old. And clunky.
 
 
 ## Acrobat
