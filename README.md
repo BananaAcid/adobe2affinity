@@ -114,6 +114,13 @@ Threre is no plugin.
 ### No solution known
 - <kbd>*>*2024-08-27, AP v2.5.3*</kbd>
 
+## How can I vectorize an image
+You can't.
+### Workaround
+- for tools see: https://forum.affinity.serif.com/index.php?/topic/127026-vectorize-image-with-affinity-designer/#comment-702010 <kbd>*2024-08-27, AP v2.5.3*</kbd>
+### No solution known
+- <kbd>*>*2024-08-27, AP v2.5.3*</kbd>
+
 ---
 
 If any explanation needs more then a sentance, it will link to a different markdown file in the same repo, where images can be included. In this main document, images may only be linked for now.
