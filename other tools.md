@@ -153,8 +153,8 @@ Maybe: Expressive Animator - Nice UI, Cross Platform, exports to SVG (SMIL+CSS) 
 
 ## 3D modeling
 - Blender 3D
-- BlockBench - Voxel 3D Editor + Animation + Plugins (Export to all formats) - https://www.blockbench.net/
-- Goxel - Simple Voxel 3D Editor (Export to all formats) - https://goxel.xyz/
+- BlockBench - Low Poly Editor (mix of Goxel + Blender) + Animation + Plugins, (Export to all formats) - https://www.blockbench.net/
+- Goxel - Simple Voxel 3D Editor, (Export to all formats) - https://goxel.xyz/
 
 ## 3D Rigging / character animation
 - mixamo
