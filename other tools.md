@@ -10,6 +10,9 @@ Goals:
 
 ---
 
+## Fallback (win-apps on linux)
+Getting windows-only apps run on linux easily, https://www.winboat.app might be the way forward.
+
 ## Vibe Graphics Editing
 - Google AI Studio - (only online, free) "the AI Photoshop" - https://aistudio.google.com/prompts/new_chat
 - FreePik - (online, few free uses per day) - https://www.freepik.com/ai/photo-editor
