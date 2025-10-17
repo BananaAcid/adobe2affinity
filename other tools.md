@@ -75,7 +75,9 @@ Getting windows-only apps run on linux easily, https://www.winboat.app might be 
 - PDFGear (MacOs, Win, Mobile - no Linux, seems like to have all AcrobatPro features)
 - InkScape
 - LibreOffice -> Draw
-- *SterlingPDF - Selfhosted in Docker, Dashbord with edit options (no Forms yet, but on their todo)*
+- BentoPDF - PDF tools all in browser without upload (GDPR)- https://bentopdf.com/
+- *BentoPDF Docker - Self-hosted - https://github.com/alam00000/bentopdf*
+- *SterlingPDF - **Not optimal: has some telemetry, requires uploading data** - Self-hosted in Docker, dashbord with edit options (no Forms yet, but on their todo)*
 
 // *Sejda* - (web - online only)
 
