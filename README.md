@@ -105,21 +105,28 @@ Threre is no plugin. Visual Studio has an integrated .ico icon editor on windows
 ### Workaround
 - you may use to import an image, export, edit .ico files at https://redketchup.io/icon-converter <kbd>*2024-08-27, AP v2.5.3*</kbd>
 ### No solution known
-- <kbd>*>*2024-08-27, AP v2.5.3*</kbd>
+- <kbd>*2024-08-27, AP v2.5.3*</kbd>
 
 ## What plugin to use to export to .icns (for MacOS programs)
 Threre is no plugin.
 ### Workaround
 - you may use https://www.aconvert.com/image/png-to-icns/ <kbd>*2024-08-27, AP v2.5.3*</kbd>
 ### No solution known
-- <kbd>*>*2024-08-27, AP v2.5.3*</kbd>
+- <kbd>*2024-08-27, AP v2.5.3*</kbd>
 
 ## How can I vectorize an image
 You can't.
 ### Workaround
 - for tools see: https://forum.affinity.serif.com/index.php?/topic/127026-vectorize-image-with-affinity-designer/#comment-702010 <kbd>*2024-08-27, AP v2.5.3*</kbd>
 ### No solution known
-- <kbd>*>*2024-08-27, AP v2.5.3*</kbd>
+- <kbd>*2024-08-27, AP v2.5.3*</kbd>
+
+
+## How can I get the backround transparent on a new image (if not set in the new-dialog)?
+Easy ...
+### Solution
+- ![](https://forum.affinity.serif.com/uploads/monthly_2024_07/image.png.f98e6587c1f12de4b5944611001c1dd6.png)
+- <kbd>*2026-03-19, AP v2.6.5*</kbd>
 
 ---
 
