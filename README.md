@@ -125,7 +125,7 @@ You can't.
 ## How can I get the backround transparent on a new image (if not set in the new-dialog)?
 Easy ...
 ### Solution
-- ![](https://forum.affinity.serif.com/uploads/monthly_2024_07/image.png.f98e6587c1f12de4b5944611001c1dd6.png)
+- https://forum.affinity.serif.com/uploads/monthly_2024_07/image.png.f98e6587c1f12de4b5944611001c1dd6.png
 - <kbd>*2026-03-19, AP v2.6.5*</kbd>
 
 ---
