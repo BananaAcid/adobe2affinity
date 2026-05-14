@@ -140,6 +140,7 @@ Maybe: Expressive Animator - Nice UI, Cross Platform, exports to SVG (SMIL+CSS) 
 
 ### Editors with animation interface
 - Adobe CS6 (last non subscription version) Flash Professional - has it all to the latest Flash Version, and use Ruffle with it. small cost buying it
+- Cavalry Studio (MacOS, Win) - exports to lottie
 - Wick Editor for Animations - exports to its own html based file https://www.wickeditor.com/#/
 - SYNfig Animation Editor - exports to lottie format https://www.synfig.org/
 - Haiku Animator - free Lottie GUI - result is a SVG - OSX prebuild binary, open source, ( https://www.haikuanimator.com/ , https://github.com/HaikuTeam/animator/ )
