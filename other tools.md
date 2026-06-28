@@ -1,3 +1,5 @@
+*Note: Use the Table of Contents to the right (the list icon)*
+
 # Other Tools
 Goals:
 - **Multiplatform: Win, OSX, Linux**
@@ -150,14 +152,14 @@ Maybe: Expressive Animator - Nice UI, Cross Platform, exports to SVG (SMIL+CSS) 
 - Haxe - IDE integrations, but none with animation UI - https://haxe.org/documentation/introduction/editors-and-ides.html
 
 ## Adobe Brackets / Dreamweaver
-- VS Code / with plugins (wysiwyg - https://marketplace.visualstudio.com/items?itemName=node-projects.vscode-designer-addon )
+- Codium / VS Code / with plugins (wysiwyg - https://marketplace.visualstudio.com/items?itemName=node-projects.vscode-designer-addon )
 - Bolt.diy - vibe code generator - https://gist.github.com/BananaAcid/6f1055fde950bf3fe5fb24b308dfaaa8
 - Bootstrap Studio - WYSIWYG - https://bootstrapstudio.io
 
 ---
 
 ## Code Editors
-- VS Code
+- Codium / VS Code
 - Sublime (simple)
 
 ### Vibe Code Editors
@@ -197,8 +199,9 @@ Maybe: Expressive Animator - Nice UI, Cross Platform, exports to SVG (SMIL+CSS) 
 // LibreOffice (OpenOffice) - Bad UI, even when switching the menu to an Office like ribbon menu, visual differences rendering of word/powerpoint files
 
 ## Outlook E-Mail
-- Thunderbird - nice UI + UX since recently, Exchange Support
+- Thunderbird - nice UI + UX since recently, Exchange Support (But somehow still a pain)
 - MailSpring - Super nice UI + Open Source
+- Vivaldi Browser - has a nice E-Mail Client 
 
 // *Spark Mail* - Closed Source, Nice UI, free basic version is ok
 
@@ -265,6 +268,11 @@ Goto is "BorgBackup" like TimeMachine or Windows Backup, https://www.borgbackup.
 
 ---
 
+## App Dashboards / multi instant messaging (IM) client
+- Ferdium (Franz) - 1-UI for online services - https://ferdium.org/
+
+---
+
 ## Password safe
 - KeepassXC
 - Bitwarden with VaultWarden server - for teams
@@ -278,13 +286,9 @@ Goto is "BorgBackup" like TimeMachine or Windows Backup, https://www.borgbackup.
   - Linux TUI without BootCD
     - HowTo: see: https://gist.github.com/BananaAcid/e75f0bb162755e25cc5ae4a0b2b7f645
  
----
-
 ## Archiver
 - 7zip + Gui (all of the most common formats, ZIP, 7Zip, RAR, TAR, GZIP, ...)
 - Keka (MacOS only)
-
----
 
 ## Alternative Shells
 - Powershell
@@ -294,9 +298,6 @@ Goto is "BorgBackup" like TimeMachine or Windows Backup, https://www.borgbackup.
 
 ### Terminals
 - Hyper Terminal - Brutally customizable, very nice plugins & Splitting - https://hyper.is/
-
-## App Dashboards / multi instant messaging (IM) client
-- Ferdium (Franz) - 1-UI for online services - https://ferdium.org/
 
 ---
 
@@ -318,3 +319,10 @@ Goto is "BorgBackup" like TimeMachine or Windows Backup, https://www.borgbackup.
 ### Self Host LLM (UI), provides OpenAI compatible API
 - LM Studio - NOT FREE in COMMERCIAL ENVIRONMENTS, only for private use
 
+---
+
+## Browsers
+- Vivaldi - safe browser, includes a top E-Mail Client, ...
+- UnGoogled Chromium - needs extensions plugin manually installed to install chrome plugins
+- FireFox - not as up to date with supporting web standarts, but works
+- LadyBird - Work in progress - but will be a truely new independend engine
