@@ -163,6 +163,7 @@ Maybe: Expressive Animator - Nice UI, Cross Platform, exports to SVG (SMIL+CSS) 
 - Sublime (simple)
 
 ### Vibe Code Editors
+- Bolt.diy
 - t3 Code
 - Cline plugin for VS Code (= OpenCode)
 - ...
@@ -306,6 +307,11 @@ Goto is "BorgBackup" like TimeMachine or Windows Backup, https://www.borgbackup.
 ### Online and Safe
 - Duck.AI - different models 
 - Mistral - EU privacy Law, only mistral models
+
+### By Tool (OpenAI compatible provider can be changed)
+- Cline CLI / Cline VSCode Extension (Free: "step 3.7 flash", deepseek v4 flash", "minimax m2.5", "mimo 2.5") - Mainly coding (Plan and Build mode), refactoring, chat ...
+- Windsurf VSCoe Extension (Free: "Base Model") - Mainly Code completion, refactoring, chat, ...
+- OpenCode Cli (Free: "Big Pickle" Model) - Mainly coding (Plan and Build mode), refactoring, chat ...
 
 ### API Providers, provides OpenAI compatible API
 - Pollinations.AI - needs GitHub login only
