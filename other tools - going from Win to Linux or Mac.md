@@ -376,3 +376,13 @@ Goto is "BorgBackup" like TimeMachine or Windows Backup, https://www.borgbackup.
 ### Gaming
 - Sunshine Server and Moonshine client
 - Parsec App (Personal Use) - Screen Peer to Peer low latency streaming
+
+---
+
+## Fedora/Nobara Linux specific
+Theme: Amy-Global
+
+- GPU Screen Recorder — https://www.tromjaro.com/gpu-screen-recorder/
+- Smb4k - auto mount smb on start
+- Remmina - VNC/RDP Client
+- KRDP
