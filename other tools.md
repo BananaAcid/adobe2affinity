@@ -258,5 +258,10 @@ Goto is "BorgBackup" like TimeMachine or Windows Backup, https://www.borgbackup.
 
 ---
 
+## Samsung Magician SSD Firmware updates:
+see: https://gist.github.com/BananaAcid/e75f0bb162755e25cc5ae4a0b2b7f645
+
+---
+
 ## App Dashboards / multi instant messaging (IM) client
 - Ferdium (Franz) - 1-UI for online services - https://ferdium.org/
