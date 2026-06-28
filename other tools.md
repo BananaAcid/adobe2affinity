@@ -258,10 +258,28 @@ Goto is "BorgBackup" like TimeMachine or Windows Backup, https://www.borgbackup.
 
 ---
 
-## Samsung Magician SSD Firmware updates:
-see: https://gist.github.com/BananaAcid/e75f0bb162755e25cc5ae4a0b2b7f645
+## Non OS Update supported, Non LVFS supported - SSD Firmwares
+- Samsung Magician - SSD Firmware updates
+  - MacOS and Windows have an app
+  - Linux TUI without BootCD
+    - HowTo: see: https://gist.github.com/BananaAcid/e75f0bb162755e25cc5ae4a0b2b7f645
+ 
+---
+
+## Archiver
+- 7zip + Gui (all of the most common formats, ZIP, 7Zip, RAR, TAR, GZIP, ...)
+- Keka (MacOS only)
 
 ---
+
+## Alternative Shells
+- Powershell
+  - Why at all? It is crazy powerful -> https://fedoramagazine.org/install-powershell-on-fedora-linux/
+  - Works on all OSs
+- FiSH
+
+### Terminals
+- Hyper Terminal - Brutally customizable, very nice plugins & Splitting - https://hyper.is/
 
 ## App Dashboards / multi instant messaging (IM) client
 - Ferdium (Franz) - 1-UI for online services - https://ferdium.org/
