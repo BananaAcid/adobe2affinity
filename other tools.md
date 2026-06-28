@@ -154,6 +154,20 @@ Maybe: Expressive Animator - Nice UI, Cross Platform, exports to SVG (SMIL+CSS) 
 - Bolt.diy - vibe code generator - https://gist.github.com/BananaAcid/6f1055fde950bf3fe5fb24b308dfaaa8
 - Bootstrap Studio - WYSIWYG - https://bootstrapstudio.io
 
+---
+
+## Code Editors
+- VS Code
+- Sublime (simple)
+
+### Vibe Code Editors
+- t3 Code
+- Cline plugin for VS Code (= OpenCode)
+- ...
+
+### Vibe Code CLI
+- OpenCode
+- Hermes (is also an alternative to OpenClaw)
 
 ---
 
@@ -283,3 +297,24 @@ Goto is "BorgBackup" like TimeMachine or Windows Backup, https://www.borgbackup.
 
 ## App Dashboards / multi instant messaging (IM) client
 - Ferdium (Franz) - 1-UI for online services - https://ferdium.org/
+
+---
+
+## Free AI
+
+### Online and Safe
+- Duck.AI - different models 
+- Mistral - EU privacy Law, only mistral models
+
+### API Providers, provides OpenAI compatible API
+- Pollinations.AI - needs GitHub login only
+- OpenRouter - needs registering and onetime $10 activation to access free models
+
+### Self host LLM (CLI), provides OpenAI compatible API
+- vLLM - complex, but easy with Docker Models
+- Ollama - super easy, for single user
+- llama.cpp - hard to setup, best tool
+
+### Self Host LLM (UI), provides OpenAI compatible API
+- LM Studio - NOT FREE in COMMERCIAL ENVIRONMENTS, only for private use
+
