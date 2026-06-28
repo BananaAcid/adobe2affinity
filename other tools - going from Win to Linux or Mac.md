@@ -43,7 +43,7 @@ Getting windows-only apps run on linux easily, https://www.winboat.app might be 
 
 
 ## Premiere / AfterEffects
-- DaVinci Resolve
+- DaVinci Resolve ([Fedora / Nobara installation](https://github.com/H3rz3n/How-install-DaVinci-Resolve-in-Fedora-Linux))
 - Blender -> video editing mode - https://www.blender.org/features/video-editing/
 - KDEnlive 
 - OpenShot - https://www.openshot.org
