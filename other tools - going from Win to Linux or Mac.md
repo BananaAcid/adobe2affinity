@@ -10,6 +10,8 @@ Goals:
 - Locally installable
 - Open Source
 
+Note on hosting with docker: you can get a cheap online server and host these there with docker or on your NAS or private PC.
+
 ---
 
 ## Fallback (win-apps on linux)
@@ -258,8 +260,9 @@ WebDav (Win, MacOS, Linux) access is depricated by Microsoft as far as I can tel
 - SiriKali - Supports Fscrypt, Securefs, Ecryptfs, Cryfs, Encfs, Gocryptfs, Sshfs and Cryptomator - https://mhogomchungu.github.io/sirikali/
 
 ### alternative for own hosting
-- Network Drives - Only remote access: SFTP, FTPS, WebDav
+- Network Drives - Only remote access: SFTP, FTPS, WebDAV
 - Syncthing - Synchronises files to server and/or between users, needs a Syncthing server somwehere (a NAS usually has an app)
+- NextCloud Server (Docker) - Provides Files and more 
 
 ## System Backup / TimeMachine
 Goto is "BorgBackup" like TimeMachine or Windows Backup, https://www.borgbackup.org/ - Server needs to be installed locally or on the network (a NAS usually has an app).
