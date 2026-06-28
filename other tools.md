@@ -26,7 +26,7 @@ Getting windows-only apps run on linux easily, https://www.winboat.app might be 
 
 ## Adobe Photoshop, Illustrator, InDesign
 ... Gimp is **NOT** an alternative for me
-- Affinity: Photo, Designer, Publisher
+- Affinity: Photo, Designer, Publisher --> https://github.com/ryzendew/Linux-Affinity-Installer
 
 - Krita + plugin kritaaidiffusion.com - Generative fill and other AI options also with Flux Model
 - Fooocus AI - AI image generation and edit locally [inpaint and more] - fooocus.one
