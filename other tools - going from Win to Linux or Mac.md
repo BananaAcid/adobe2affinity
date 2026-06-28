@@ -335,3 +335,10 @@ Goto is "BorgBackup" like TimeMachine or Windows Backup, https://www.borgbackup.
 - UnGoogled Chromium - needs extensions plugin manually installed to install chrome plugins
 - FireFox - not as up to date with supporting web standarts, but works
 - LadyBird - Work in progress - but will be a truely new independend engine
+
+---
+
+## Desktop Environments - tiling window manager
+- Linux: Hyprland (because of eyecandy and full design)
+- MacOS: AeroSpace / Stage Manager (inbuild)
+- Windows: GlazeWM (integrates better) / Komorebi (a direct HyprLand translation) / FancyZones included in Powertools (Custom Zones)
