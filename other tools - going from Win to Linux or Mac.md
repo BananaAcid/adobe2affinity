@@ -303,6 +303,23 @@ Goto is "BorgBackup" like TimeMachine or Windows Backup, https://www.borgbackup.
 ### Terminals
 - Hyper Terminal - Brutally customizable, very nice plugins & Splitting - https://hyper.is/
 
+#### TUI Tools
+- LazyDocker - docker TUI
+- AstroNvim - a fully configured NeoVim with similarities to VSCode
+- z (Mac/Linux: https://github.com/rupa/z | Windows: https://github.com/JannesMeyer/z.ps)
+- OpenCode - AI on commandline
+- Micro Editor - minimal text edtitor (normal key bindings unlinke nano/vim)
+- ncdu -	file and folder size overview / (GUI: all os: Filelight, windows: WizTree (very fast) )
+- mc	- midgnight commander
+- bat	- cat (batcat) replacement with syntaxhighlight and git integration
+- fzf	- file selection in scripts (can also be piped to)
+- btop -	easier htop, proccess overview, Windows: btop4win
+- NeoFetch - shows system overview info
+
+#### Tools 
+- jq	- json parsing in commandline (preinstalled) - jqlang.org
+- Duck CLI - is able to transfer files from and to anything (it is the CyberDuck Cli)
+- 
 ---
 
 ## Free AI
@@ -342,3 +359,14 @@ Goto is "BorgBackup" like TimeMachine or Windows Backup, https://www.borgbackup.
 - Linux: Hyprland (because of eyecandy and full design)
 - MacOS: AeroSpace / Stage Manager (inbuild)
 - Windows: GlazeWM (integrates better) / Komorebi (a direct HyprLand translation) / FancyZones included in Powertools (Custom Zones)
+
+---
+
+## Remote Desktop
+
+### Sys Admin
+- RustDesk - connection management server can be installed optionally
+
+### Gaming
+- Sunshine Server and Moonshine client
+- Parsec App (Personal Use) - Screen Peer to Peer low latency streaming
