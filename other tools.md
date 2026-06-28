@@ -1,4 +1,4 @@
-*Note: Use the Table of Contents to the right (the list icon)*
+*Note: Use the Table of Contents ("Outline") to the right (the list icon)*
 
 # Other Tools
 Goals:
