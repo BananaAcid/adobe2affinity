@@ -319,7 +319,13 @@ Goto is "BorgBackup" like TimeMachine or Windows Backup, https://www.borgbackup.
 #### Tools 
 - jq	- json parsing in commandline (preinstalled) - jqlang.org
 - Duck CLI - is able to transfer files from and to anything (it is the CyberDuck Cli)
-- 
+
+#### Package managers
+- nix - works on all os
+- Chocolatey/WinGet (Windows) - and GUI: UniGetUI
+- HomeBrew (MacOS)
+- ... Distro dependent (Linux)
+
 ---
 
 ## Free AI
